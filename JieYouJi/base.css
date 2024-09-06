@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 3px;
+
+    h1 {
+        font-size: xx-large;
+    }
+
+    p {
+        font-size: large;
+    }
+}
+
+header {
+    background-color: bisque;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+
+main {
+    .sidebar {
+        background-color: bisque;
+        margin: 5px;
+        border-radius: 5px;
+        width: 300px;
+        float: right;
+        padding: 3px;
+    }
+
+    .main_contect {
+        background-color: bisque;
+        margin: 5px;
+        border-radius: 5px;
+        padding: 3px;
+    }
+}
